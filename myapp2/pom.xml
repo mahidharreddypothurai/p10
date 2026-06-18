@@ -25,6 +25,7 @@
 			<configuration>
 				<redirectOutputFileTo>false</redirectOutputFileTo>
 				<useSystemOut>true</useSystemOut>
+			</configuration>
     </plugin>
   </plugins>
 </build>
